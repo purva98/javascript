@@ -1,2 +1,2 @@
-import comp from './BarChartComponent';
+import comp from './LineChartComponent';
 export default comp;
